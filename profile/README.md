@@ -1,8 +1,8 @@
 <!-- Header Section with Professional Banner -->
 <div align="center">
   
-  <!-- Company Logo - Local Image -->
-  <img src="./assets/vorsprung-logo.png" alt="Vorsprung Solutions Logo" width="150" style="margin-bottom: 10px"/>
+  <!-- Company Logo - Local Image from Root -->
+  <img src="../svg 1.svg" alt="Vorsprung Solutions Logo" width="150" style="margin-bottom: 10px"/>
   
   <!-- Professional Header Banner -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vorsprung%20Solutions&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Custom%20IT%20Solutions%20–%20Engineered%20by%20Experts&descAlignY=55&descSize=18"/>
@@ -69,7 +69,7 @@
 <!-- About Section -->
 ## 💼 **About Vorsprung Solutions**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=claude&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=issues" width="50%"/>
+<div align="left">
 
 At **Vorsprung Solutions**, we deliver innovative and reliable IT solutions engineered to the highest German standards. Our commitment to precision, performance, and trust helps businesses unlock efficiency and growth through tailored, high-quality software services.
 
@@ -82,7 +82,7 @@ At **Vorsprung Solutions**, we deliver innovative and reliable IT solutions engi
 - 📈 **Experience:** 15+ years combined expertise
 - 🏆 **Sectors:** Government, Education, Enterprise
 
-<br clear="right"/>
+</div>
 
 ---
 
