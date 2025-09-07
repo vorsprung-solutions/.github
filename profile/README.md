@@ -90,100 +90,74 @@ At **Vorsprung Solutions**, we deliver innovative and reliable IT solutions engi
 
 <div align="center">
 
-<!-- Service Cards Layout -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/teamwork.png"/>
-        <h3>🤝 <strong>Extended Development Team</strong></h3>
-      </div>
-      
-      **Perfect for scaling your internal IT delivery**
-      
-      ✅ **Project-Based Development**  
-      → Seamless workflow integration  
-      → Your tools, your specifications  
-      → Clean, documented deliverables  
-      
-      ✅ **Dedicated Development Units**  
-      → Long-term team allocation  
-      → Work under your brand  
-      → Full process alignment  
-      
-      ✅ **Tech Stack Flexibility**  
-      → Laravel, Vue, React, Node.js  
-      → Python, Java, .NET, PHP  
-      → Adapt to your environment  
-      
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/desktop.png"/>
-        <h3>🖥️ <strong>Custom Desktop Applications</strong></h3>
-      </div>
-      
-      **Tailored Windows-based software solutions**
-      
-      🎯 **Use Cases:**  
-      → Resource tracking dashboards  
-      → Reporting and data entry systems  
-      → Internal administrative tools  
-      → Government deployment packages  
-      
-      ⚙️ **Technologies:**  
-      → Electron, Python, Java  
-      → .NET Framework & Core  
-      → Executable & installer packages  
-      → Offline-first architecture  
-      
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/automation.png"/>
-        <h3>⚙️ <strong>Business Automation Tools</strong></h3>
-      </div>
-      
-      **Streamline operations with zero cloud dependency**
-      
-      🏢 **Solutions:**  
-      → Internal billing & invoicing  
-      → Multi-format data transformation  
-      → Document workflow automation  
-      → Quote and contract generation  
-      
-      🔧 **Benefits:**  
-      → Fully deployable tools  
-      → Zero external dependencies  
-      → Custom business logic  
-      → Long-term independence  
-      
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/api.png"/>
-        <h3>🔌 <strong>API Integration Utilities</strong></h3>
-      </div>
-      
-      **Connect and synchronize your systems efficiently**
-      
-      🔗 **Integrations:**  
-      → ERP and CRM systems  
-      → Financial data processors  
-      → Local file-to-API sync  
-      → Real-time synchronization  
-      
-      🛡️ **Security Features:**  
-      → Locally hosted applications  
-      → Encrypted data transmission  
-      → Audit trails and logging  
-      → Compliance-ready architecture  
-      
-    </td>
-  </tr>
-</table>
+### 🤝 **Extended Development Team**
+**Perfect for scaling your internal IT delivery**
+
+✅ **Project-Based Development**  
+→ Seamless workflow integration  
+→ Your tools, your specifications  
+→ Clean, documented deliverables  
+
+✅ **Dedicated Development Units**  
+→ Long-term team allocation  
+→ Work under your brand  
+→ Full process alignment  
+
+✅ **Tech Stack Flexibility**  
+→ Laravel, Vue, React, Node.js  
+→ Python, Java, .NET, PHP  
+→ Adapt to your environment  
+
+---
+
+### 🖥️ **Custom Desktop Applications**
+**Tailored Windows-based software solutions**
+
+🎯 **Use Cases:**  
+→ Resource tracking dashboards  
+→ Reporting and data entry systems  
+→ Internal administrative tools  
+→ Government deployment packages  
+
+⚙️ **Technologies:**  
+→ Electron, Python, Java  
+→ .NET Framework & Core  
+→ Executable & installer packages  
+→ Offline-first architecture  
+
+---
+
+### ⚙️ **Business Automation Tools**
+**Streamline operations with zero cloud dependency**
+
+🏢 **Solutions:**  
+→ Internal billing & invoicing  
+→ Multi-format data transformation  
+→ Document workflow automation  
+→ Quote and contract generation  
+
+🔧 **Benefits:**  
+→ Fully deployable tools  
+→ Zero external dependencies  
+→ Custom business logic  
+→ Long-term independence  
+
+---
+
+### 🔌 **API Integration Utilities**
+**Connect and synchronize your systems efficiently**
+
+🔗 **Integrations:**  
+→ ERP and CRM systems  
+→ Financial data processors  
+→ Local file-to-API sync  
+→ Real-time synchronization  
+
+🛡️ **Security Features:**  
+→ Locally hosted applications  
+→ Encrypted data transmission  
+→ Audit trails and logging  
+→ Compliance-ready architecture  
 
 </div>
 
@@ -197,55 +171,45 @@ At **Vorsprung Solutions**, we deliver innovative and reliable IT solutions engi
 
 </div>
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/64/000000/government.png"/>
-      <h4>🏛️ <strong>Government & Public Sector</strong></h4>
-      
-      **🎯 Government Training Portal**  
-      → Secure internal training system  
-      → European ministry deployment  
-      → Offline access capabilities  
-      
-      **📊 Public Health Dashboard**  
-      → Real-time statistics platform  
-      → Local health department tool  
-      → Compliance-ready reporting  
-      
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/64/000000/university.png"/>
-      <h4>🎓 <strong>Universities & Academia</strong></h4>
-      
-      **📚 Research Submission Platform**  
-      → Scalable research tool  
-      → Advanced data validation  
-      → Standalone system architecture  
-      
-      **📅 Faculty Coordination Tool**  
-      → Non-cloud scheduling system  
-      → Room booking integration  
-      → Committee planning features  
-      
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/64/000000/business.png"/>
-      <h4>🏢 <strong>Private Enterprise</strong></h4>
-      
-      **🛡️ Insurance Claims Automation**  
-      → Secure processing tool  
-      → CSV/PDF integration  
-      → Mid-sized firm deployment  
-      
-      **📈 Custom CRM Module**  
-      → Lead management extension  
-      → ERP integration  
-      → Export logistics optimization  
-      
-    </td>
-  </tr>
-</table>
+### 🏛️ **Government & Public Sector**
+
+**🎯 Government Training Portal**  
+→ Secure internal training system  
+→ European ministry deployment  
+→ Offline access capabilities  
+
+**📊 Public Health Dashboard**  
+→ Real-time statistics platform  
+→ Local health department tool  
+→ Compliance-ready reporting  
+
+---
+
+### 🎓 **Universities & Academia**
+
+**📚 Research Submission Platform**  
+→ Scalable research tool  
+→ Advanced data validation  
+→ Standalone system architecture  
+
+**📅 Faculty Coordination Tool**  
+→ Non-cloud scheduling system  
+→ Room booking integration  
+→ Committee planning features  
+
+---
+
+### 🏢 **Private Enterprise**
+
+**🛡️ Insurance Claims Automation**  
+→ Secure processing tool  
+→ CSV/PDF integration  
+→ Mid-sized firm deployment  
+
+**📈 Custom CRM Module**  
+→ Lead management extension  
+→ ERP integration  
+→ Export logistics optimization
 
 ---
 
